@@ -42,7 +42,7 @@ header {
         }
     }
 
-    & div {
+    & nav {
         padding-top: 15px;
         margin-right: 20px;
         float: right;
@@ -91,6 +91,9 @@ header {
 }
 
 aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     margin-right: 20px;
     padding: 20px;
     clear: both;
