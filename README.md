@@ -13,7 +13,7 @@ N/A
 
 
 
-## USAGE
+## Usage
 
 The website presents information about a fictional SEO company. Using DevTools, you can observe the semantic code I have employed.
 
@@ -21,18 +21,19 @@ The website presents information about a fictional SEO company. Using DevTools, 
 
 ## Credits
 
-The Starting Code was provided by:
-  Xandromus
-  Georgeyoo
+The Starting Code was provided by:<br>
+  Xandromus<br>
+  Georgeyoo<br>
 
-Instructional help was provided by my UTA/EdX Instructors and TAs:
-  David Spires
-  Ryan Sheffer
-  Torre Taylor
-  Walter Perry
-  Tye Stanley
+Instructional help was provided by my UTA/EdX Instructors and TAs:<br>
+  David Spires<br>
+  Ryan Sheffer<br>
+  Torre Taylor<br>
+  Walter Perry<br>
+  Tye Stanley<br>
 
 
 
 ## License
 
+This repo uses an MIT License. See above for details.
