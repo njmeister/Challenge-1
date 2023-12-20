@@ -5,6 +5,10 @@
 This is my submission for the first challenge in the UTA/EdX Coding Bootcamp. The goal of this challenge was to improve the accessibility of a sample website using HTML and CSS.
 To do so, I changed the code's HTML div tags to appropriate semantic tags, added alt text for the images, and simplified the CSS code to eliminate redundancies and increase readability.
 
+<img src="./assets/images/horiseon-screenshot1.png"/>
+
+<a href="https://njmeister.github.io/Noah-M-UT-Challenge-1/">Link</a>
+
 
 
 ## Installation
